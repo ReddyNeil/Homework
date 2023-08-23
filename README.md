@@ -13,7 +13,7 @@ I have been hired by Horiseon, a marketing agency who have requested an update t
 - https://reddyneil.github.io/Marketing-Code-Challenge/
 
 ## Github Contact
-https://github.com/ReddyNeil
+- https://github.com/ReddyNeil
 
 ## Screenshot
 ![My Screenshot](<assets/images/Screenshot 2023-08-23 at 8.18.58 pm.png>)
